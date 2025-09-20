@@ -1,0 +1,27 @@
+bill_number,hotel_name,city,review
+1,Hotel A,Mumbai,The food was delicious but the staff was rude and inattentive.
+2,Hotel A,Mumbai,"Great ambience and clean environment, but the price was too high."
+3,Hotel A,Mumbai,Horrible service! Had to wait 30 minutes just for water.
+4,Hotel A,Mumbai,"The staff was friendly, but the ambience was too noisy and uncomfortable."
+5,Hotel A,Mumbai,"Food was okay, but the restaurant was not clean at all!"
+6,Hotel B,Delhi,"The food was excellent, but the service was very slow."
+7,Hotel B,Delhi,Nice food but the ambience needs work.
+8,Hotel B,Delhi,"Friendly staff, but the food could be better."
+9,Hotel B,Delhi,"The ambience was wonderful, but the food was too bland."
+10,Hotel B,Delhi,"Food was tasty, but the restaurant was not clean."
+11,Hotel C,Chennai,"Great service, but the food was tasteless."
+12,Hotel C,Chennai,"The staff was helpful, but the ambience was too noisy."
+13,Hotel C,Chennai,"Delicious food, but the service was poor."
+14,Hotel C,Chennai,Clean restaurant but bad food quality.
+15,Hotel C,Chennai,"Staff was attentive, but the price was too high for the quality."
+16,Hotel D,Kolkata,"Service was slow, and the food was cold."
+17,Hotel D,Kolkata,"Ambience was nice, but the food lacked flavor."
+18,Hotel D,Kolkata,"The staff was rude, and the food was mediocre."
+19,Hotel D,Kolkata,"The food was fantastic, but the environment was too noisy."
+20,Hotel D,Kolkata,"Staff was friendly, but the food was very salty."
+21,Hotel E,Surat,"The food tasted great, but the service was very slow."
+22,Hotel E,Surat,"The restaurant was clean, but the food wasn't impressive."
+23,Hotel E,Surat,"Great food, but the staff was unhelpful."
+24,Hotel E,Surat,"Nice food, but the ambience was uncomfortable."
+25,Hotel E,Surat,"Clean environment, but the food was bland and tasteless."
+
